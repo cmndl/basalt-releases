@@ -1,0 +1,46 @@
+Basalt Proprietary Software License
+Copyright (c) 2026 Christian Meindl. All rights reserved.
+
+This license governs Basalt (the "Software"), including official binaries,
+installers, Flatpak packages, and related documentation distributed by the
+copyright holder. The English text is the legally binding version.
+
+1. Grant of use
+   You may install and use official builds of the Software on devices you
+   control, including making a reasonable number of backup copies of those
+   builds for personal use.
+
+2. Official redistribution
+   The copyright holder grants Flathub (https://flathub.org) a non-exclusive,
+   worldwide, royalty-free right to reproduce, package as Flatpak, and
+   distribute unmodified official Linux binaries of the Software together with
+   the accompanying Flatpak metadata, for as long as the Software remains
+   listed on Flathub. The same grant applies to other software catalogs that
+   the copyright holder designates in writing.
+
+3. Restrictions
+   Except as expressly allowed in sections 1 and 2, you may not copy, modify,
+   merge, publish, distribute, sublicense, sell, or create derivative works of
+   the Software or its source code. Access to source code, if any, does not
+   grant a license to copy it, fork it, or publish it. You may not remove or
+   alter copyright, trademark, or license notices.
+
+4. No implied rights
+   All rights not expressly granted are reserved. This license does not grant
+   trademark rights beyond what is needed to identify the Software.
+
+5. Disclaimer
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+   WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF
+   OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+6. Contact
+   Christian Meindl, Forst-Kasten-Straße 9c, 82152 Krailling, Germany.
+   https://c-meindl.com/impressum/
+
+A convenience copy of this license is published at:
+https://c-meindl.com/basalt/license/
